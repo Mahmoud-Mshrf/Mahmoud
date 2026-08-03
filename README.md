@@ -28,6 +28,7 @@
 - ▸ Build Web APIs around **OOP** and **SOLID** principles
 - ▸ Data layer: **EF Core** + **SQL Server**, queried with **LINQ**
 - ▸ Secure endpoints with **JWT**, clean DTOs with **AutoMapper**, background work with **Hangfire**
+- ▸ Also work in **Clean Architecture** solutions — CQRS via MediatR, DDD tactical patterns, and the Result pattern instead of exceptions
 - ▸ Recent build: **Pro-Sales** — an ASP.NET Core Web API for CRM / sales management
 
 <p align="center">▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪</p>
@@ -45,6 +46,25 @@
   <img src="https://img.shields.io/badge/AUTOMAPPER-000000?style=for-the-badge&logo=nuget&logoColor=FF2D2D" />
   <img src="https://img.shields.io/badge/HANGFIRE-000000?style=for-the-badge&logo=nuget&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FF2D2D" />
+</p>
+
+<p align="center">▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪</p>
+
+### // ARCHITECTURE.SYS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/CQRS_%2B_MEDIATR-000000?style=for-the-badge&logoColor=FF2D2D" />
+  <img src="https://img.shields.io/badge/DDD_(TACTICAL)-000000?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/RESULT_PATTERN-000000?style=for-the-badge&logoColor=FF2D2D" />
+  <img src="https://img.shields.io/badge/DOMAIN_EVENTS-000000?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/FLUENTVALIDATION-000000?style=for-the-badge&logoColor=FF2D2D" />
+  <img src="https://img.shields.io/badge/SIGNALR-000000?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/HYBRIDCACHE-000000?style=for-the-badge&logoColor=FF2D2D" />
+  <img src="https://img.shields.io/badge/BACKGROUND_SERVICES-000000?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/ASP.NET_IDENTITY_%2B_JWT-000000?style=for-the-badge&logoColor=FF2D2D" />
+  <img src="https://img.shields.io/badge/SERILOG_%2B_SEQ-000000?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PROMETHEUS-000000?style=for-the-badge&logo=prometheus&logoColor=FF2D2D" />
 </p>
 
 <p align="center">▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪</p>
